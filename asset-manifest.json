@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Taskstack/static/css/main.6f6ce641.css",
+    "main.js": "/Taskstack/static/js/main.b6c25833.js",
+    "static/media/taskstack-logo.png": "/Taskstack/static/media/taskstack-logo.950a1690b61ec69bb058.png",
+    "index.html": "/Taskstack/index.html",
+    "main.6f6ce641.css.map": "/Taskstack/static/css/main.6f6ce641.css.map",
+    "main.b6c25833.js.map": "/Taskstack/static/js/main.b6c25833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f6ce641.css",
+    "static/js/main.b6c25833.js"
+  ]
+}
